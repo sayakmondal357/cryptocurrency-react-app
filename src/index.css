@@ -29,16 +29,13 @@ a {
 
 body {
   margin: 0;
-  font-family: 'sanf-serif' 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 h1 {
@@ -87,7 +84,7 @@ input {
   border-radius: 24px 4px;
   font-size: 1rem;
   margin-right: .8rem;
-  font-family: 'Poppins', sans-serif;
+  font-family: sans-serif;
 }
 
 @media screen and (max-width: 768px) {
